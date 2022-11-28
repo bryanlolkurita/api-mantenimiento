@@ -1,6 +1,6 @@
 package ec.edu.espe.mantenimientoapi.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.Data;
 
 
