@@ -1,0 +1,9 @@
+{
+  "build": {
+    "type": "maven",
+    "goal": "assemble"
+  },
+  "deploy": {
+    "jarName": "./target/mantenimiento-api-0.0.1-SNAPSHOT.jar"
+  }
+}
